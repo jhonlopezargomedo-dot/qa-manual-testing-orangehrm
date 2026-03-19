@@ -18,7 +18,7 @@ Se diseñaron y ejecutaron más de 10 casos de prueba basados en criterios de ac
 
 ## 🐞 Bugs encontrados
 Se identificaron múltiples errores relacionados con:
-- Validación de credenciales
+- Validación de credenciales.
 - Mensajes incorrectos
 - Validación de inputs
 
